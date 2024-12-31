@@ -4,9 +4,15 @@ Vídeo: https://youtu.be/1glVfFxj8a4?t=6458
 */
 
 // 1. Crea una variable para cada operación aritmética
+let suma = 2 + 3
+let Resta = 4 - 3
+let Multiplicación = 5  * 7
+let division = 6 / 9
 
 // 2. Crea una variable para cada tipo de operación de asignación,
 //    que haga uso de las variables utilizadas para las operaciones aritméticas
+
+
 
 // 3. Imprime 5 comparaciones verdaderas con diferentes operadores de comparación
 
